@@ -1,3 +1,4 @@
+[
 {"city" : "Arizona",     	"mascot" : "Cardinals",	  	"short" : "ARI",	"homeText" : "FFFFFF",	"homeMain" : "97233F",	"homeSecondary" : "000000",	"awayText" : "97233F",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
 {"city" : "Los Angeles",   	"mascot" : "Rams",		"short" : "LAR", 	"homeText" : "FFD100",	"homeMain" : "003594",	"homeSecondary" : "FFD100",	"awayText" : "003594",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFD100"},
 {"city" : "San Francisco",     	"mascot" : "49ers",			"short" : "SF", 	"homeText" : "FFFFFF",	"homeMain" : "AA0000",	"homeSecondary" : "B3995D",	"awayText" : "AA0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "B3995D"},
